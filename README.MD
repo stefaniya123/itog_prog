@@ -21,4 +21,4 @@
 
 **Блок-схема функции поиск:**
 
-![Блок-схема](poisk.png)
+![Блок-схема](https://github.com/stefaniya123/itog_prog/blob/main/poisk.PNG)
